@@ -194,7 +194,7 @@ features:
   - name: "VM: Service Credential Distribution"
     link: "/docs/concepts/security/#pki"
     level:
-      checklist: ""
+      checklist: features/vm-service-credential-distribution.md
       maturity: Beta
       nextExpectedPromotion: ""
     area: Security and policy enforcement
